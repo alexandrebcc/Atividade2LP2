@@ -1,0 +1,11 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.csprojAssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\bin\Debug\netcoreapp2.1\Atividade2EFCore.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\Atividade1LP2\Atividade2\Atividade2EFCore\obj\Debug\netcoreapp2.1\Atividade2EFCore.pdb
